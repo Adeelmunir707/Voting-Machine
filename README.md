@@ -1,1 +1,1 @@
-# Voting-Machine Developed By using Object Oriented Progrmaming
+# Voting-Machine Developed By using Object Oriented Progrmaming.
